@@ -95,7 +95,7 @@ THM/
 VMC/
 ```
 
-**2. Download one of the zip files that contains one of the Theme variants from the [Releases](https://github.com/PixeliGer/DeckyOS/releases/latest) page or using the green `DOWNLOAD` button at the top, (make sure it's one with the `thm_` prefix in its name)**
+**2. Download one of the zip files that contains one of the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-DeckyOS/releases/latest) page or using the green `DOWNLOAD` button at the top, (make sure it's one with the `thm_` prefix in its name)**
 ```
 thm_DeckyOS
 thm_DeckyOS-Neon-PINK
